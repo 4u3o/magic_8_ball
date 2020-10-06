@@ -1,2 +1,9 @@
-# magic_8_ball
-Utility softwate that is used for fortune-telling or seeking advice
+# Magic 8 ball
+Утилита предназначенная для получения отличных советов в любой жизненной ситуации.
+
+### Как использовать
+Откройте в консоли директорию, в которой находится файл `main.rb` и выполните команду:  
+ 
+```ruby
+ruby main.rb
+```
